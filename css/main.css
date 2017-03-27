@@ -2,8 +2,9 @@ html {
   font-family: 'Merriweather', serif;
 }
 
- td {
-   text-align: right;
+td {
+  text-align: right;
+  height: 10em;
  }
 
 .grey {
@@ -40,8 +41,4 @@ table {
 
 th, td {
   border: solid 1px #ccc;
-}
-
-td {
-  height: 10em;
 }
